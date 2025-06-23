@@ -77,6 +77,19 @@ def place_apple():
 
 ![再生テスト](https://github.com/user-attachments/assets/3c5d965a-ffcb-4ce3-9c31-8f5da046c5c4)
 
+<br>
+
+7. **クリックに反応させる** <br>
+マウスをクリックしたときに実行するソースコード<br>
+Pygame Zeroには``on_mouse_down()``というビルトイン関数があり、マウスがクリックされると必ず実行される。<br>
+画面上でマウスをクリックするたびに「Good shot!」のメッセージがコマンドプロンプト(またはターミナル)の
+ウィンドウに表示される。
+```
+def on_mouse_down(pos):
+    print("Good shot!")
+    place_apple()
+```
+
 
 
 
