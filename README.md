@@ -35,7 +35,8 @@ def draw():
 プログラミングが正しく動けば下記のような画面が表示される<br>
 もしうまく描けないかエラーメッセージが表示されるときは、前に戻ってソースコードをチェックしてバグを探そう。
 
-![最初の画面](https://github.com/user-attachments/assets/d25fcc45-9f46-4138-8db0-c70614930e94)
+![最初の画面](https://github.com/user-attachments/assets/24c689fb-01fe-47b5-be57-587abf8199e1)
+
 
 <br>
 
