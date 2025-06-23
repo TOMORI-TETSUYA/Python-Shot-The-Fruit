@@ -74,7 +74,8 @@ def place_apple():
 ファイルをsaveしたらコマンドラインからプログラムを実行する。<br>
 今度は果物の座標(300, 200)に表示される。
 
-![再生テスト](https://github.com/user-attachments/assets/86b3f014-4386-4bb7-8262-23bdf0e0369a)
+![再生テスト](https://github.com/user-attachments/assets/3c5d965a-ffcb-4ce3-9c31-8f5da046c5c4)
+
 
 
 
